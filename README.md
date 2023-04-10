@@ -83,7 +83,8 @@ The main features of LPC2148 include the following.
 
 
 ## Output  :
- 
+ ![](111.png)
+ ![](222.png)
  
  
  
